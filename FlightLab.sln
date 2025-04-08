@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightLab", "FlightLab.csproj", "{020F49E0-EC24-45A9-96AC-C229267FB267}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{020F49E0-EC24-45A9-96AC-C229267FB267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020F49E0-EC24-45A9-96AC-C229267FB267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020F49E0-EC24-45A9-96AC-C229267FB267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020F49E0-EC24-45A9-96AC-C229267FB267}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9663B1B-3520-49C3-A551-CC0B8753CD79}
+	EndGlobalSection
+EndGlobal
