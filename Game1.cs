@@ -41,6 +41,8 @@ namespace AirTraffic
             _smallPlane = new SmallPlane(GraphicsDevice, _smoke, Content.Load<Texture2D>("Graphics/plane_selected"), Content.Load<Texture2D>("Graphics/plane_not_selected"),
                 Content.Load<Texture2D>("Graphics/plane_selected_lights"), Content.Load<Texture2D>("Graphics/plane_not_selected_lights"), "A350", 200, 600);
 
+            SmallPlane.smallPlane = _smallPlane;
+            FlightWeb.AirplaneInfo.BigPlaneCount = 1;
 
         }
 
@@ -91,7 +93,7 @@ namespace AirTraffic
             _bigPlane.Turn();
             _bigPlane.Move();
             _bigPlane.UseLights();
-
+            FlightWeb.AirplaneInfo.BigPlaneCount = 1;
 
             //Debug.WriteLine($"{_bigPlane.GetHeading()} {_bigPlane.TargetHeading}");
 

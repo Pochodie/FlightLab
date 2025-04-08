@@ -1,3 +1,3 @@
-﻿
-using var game = new AirTraffic.Game1();
+﻿using var game = new AirTraffic.Game1();
 game.Run();
+
