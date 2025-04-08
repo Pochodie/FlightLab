@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightLab", "FlightLab.csproj", "{020F49E0-EC24-45A9-96AC-C229267FB267}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightWeb", "..\FlightWeb\FlightWeb.csproj", "{296007C6-C439-4CA2-8BC8-565F862546D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightWeb", "FlightWeb\FlightWeb.csproj", "{0CADDC31-2D08-8DC7-85E8-5DA8C5A25C61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{020F49E0-EC24-45A9-96AC-C229267FB267}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{020F49E0-EC24-45A9-96AC-C229267FB267}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{020F49E0-EC24-45A9-96AC-C229267FB267}.Release|Any CPU.Build.0 = Release|Any CPU
-		{296007C6-C439-4CA2-8BC8-565F862546D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{296007C6-C439-4CA2-8BC8-565F862546D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{296007C6-C439-4CA2-8BC8-565F862546D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{296007C6-C439-4CA2-8BC8-565F862546D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CADDC31-2D08-8DC7-85E8-5DA8C5A25C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CADDC31-2D08-8DC7-85E8-5DA8C5A25C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CADDC31-2D08-8DC7-85E8-5DA8C5A25C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CADDC31-2D08-8DC7-85E8-5DA8C5A25C61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
